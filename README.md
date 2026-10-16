@@ -49,7 +49,7 @@ Reunir en una sola vista los indicadores clave de la operación de la cafetería
 
 ## 🛠️ Herramientas
 
-Power BI Desktop · DAX · [Power Query / otras herramientas que hayas usado]
+Power BI Desktop · DAX · [Power Query]
 
 ## 📂 Contenido del repositorio
 
