@@ -38,14 +38,27 @@ Reunir en una sola vista los indicadores clave de la operación de la cafetería
 
 **Filtros:** 📅 fecha (2023–2024), 📍 sede, 🏷️ categoría y 🗓️ día de la semana.
 
+## 🔢 Resumen en cifras (2023–2024, todas las sedes)
+
+| Indicador | Valor |
+|---|---|
+| Ventas totales | S/ 11,925,232 |
+| Total de tickets | 141,742 |
+| Ticket promedio | S/ 84.13 |
+| Personas por ticket | 2.55 |
+| % Food Cost | 32.17% |
+| % Labor Cost | 11.88% |
+| % Prime Cost | 44.05% |
+| Crecimiento vs. mes anterior | +4.41% |
+
 ## 🔎 Hallazgos principales
 
-- 📍 **Miraflores lidera las ventas**, con cerca del 39% del total (521,829 de 1,351,781), seguida de San Isidro (~33%) y Barranco (~29%). La diferencia viene del **tráfico y no del gasto**: el ticket promedio es casi igual en las tres sedes (entre 83.76 y 85.37), pero Miraflores atiende más tickets (6,212, frente a 5,152 y 4,658).
-- ⏰ **La demanda se concentra en tres franjas**: desayuno (~9 h), almuerzo (~13 h, el pico más alto) y cena (~19 h). Entre el almuerzo y la cena y después de las 21 h la demanda cae, lo que ayuda a planificar los turnos del personal.
-- 💰 **Los costos están bajo control**: el food cost (32.17%) está dentro del rango definido y es casi idéntico entre sedes (32.14%–32.21%). Con un labor cost de 14.30%, el prime cost (46.46%) queda por debajo de la referencia de 60% del dashboard.
-- 🥩 **Ingeniería de menú**: las cantidades vendidas por producto son muy parejas (alrededor de 3,000 a 3,150 unidades), así que el **margen es lo que diferencia a los productos**. El Rib Eye a la Cerveza destaca con el margen unitario más alto (~33). En cambio, Café Americano, Muffin de Arándanos y Espresso Doble venden bien pero con margen bajo (menos de 10): una oportunidad para revisar precio o receta.
-- 🧁 **Postres y snacks aportan poco** en las tres sedes, mientras que comidas, cenas y desayunos concentran la mayor parte de las ventas. Hay espacio para impulsar venta cruzada con postres y bebidas.
-- 📉 **Alerta de crecimiento**: el último mes muestra una caída de 23.33% frente al mes anterior. Conviene revisar si se debe a estacionalidad o a menos tickets.
+- 📍 **Miraflores lidera las ventas**, con cerca del 38.5% del total (S/ 4,591,766), seguida de San Isidro (~32.3%) y Barranco (~29.2%). La diferencia viene del **volumen de tickets y no del gasto**: Miraflores atiende 54,692 tickets (frente a 45,817 y 41,233) y, aun así, tiene el ticket promedio más bajo (83.96 vs. 84.18 y 84.32). El ticket es casi igual en las tres sedes.
+- ⏰ **La demanda se concentra en tres franjas**: desayuno (~9 h, 1.35 mill.), almuerzo (~13 h, el pico más alto con 1.75 mill.) y cena (~19 h, 1.33 mill.). Fuera de esos picos, las ventas por hora bajan a cerca de 0.43 mill., lo que ayuda a planificar los turnos del personal.
+- 💰 **Los costos están bajo control**: el food cost (32.17%) está dentro del rango definido y es casi idéntico entre sedes (32.16%–32.18%). Con un labor cost de 11.88% (S/ 388.42 por hora), el prime cost (44.05%) queda bien por debajo de la referencia de 60% del dashboard.
+- 🥩 **Ingeniería de menú**: la cantidad vendida por producto es muy pareja (entre ~26,800 y ~27,300 unidades), así que el **margen es lo que diferencia a los productos**. El Rib Eye a la Cerveza tiene el margen unitario más alto (~33). En cambio, Croissant, Espresso Doble, Muffin de Arándanos, Café Americano y Latte tienen márgenes bajos (menos de 10): oportunidad para revisar precios o recetas. El Café Americano, además, es de los que menos se vende.
+- 🧁 **Postres y snacks aportan poco** en las tres sedes, mientras que comidas, cenas y desayunos concentran la mayor parte de las ventas. Hay espacio para impulsar la venta cruzada con postres y bebidas.
+- 📈 **Crecimiento positivo**: las ventas suben 4.41% frente al mes anterior.
 
 ## 🛠️ Herramientas
 
